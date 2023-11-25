@@ -1,2 +1,311 @@
-Age, Height, Education, Happiness
-21, 165, UG, 5
+﻿Index,ContributorID,Contributor_PersonID,PersonID,Age,Height,Weight,EducationLevel,NumberOfLanguages,LikeVollyball,LikeTableTennis,FavouriteMovie,Province,HappinessLevel
+1,S1,P1,S1P1,48,162,61,Undergraduate Degree (UG),3,FALSE,TRUE,The Lord of the Rings,Henan,9
+2,S1,P2,S1P2,48,172,65,Postgraduate/ Master's Degree (PG),3,TRUE,TRUE,Wolf Warriors,Henan,10
+3,S1,P3,S1P3,19,169,61,Undergraduate Degree (UG),2,TRUE,FALSE,Guardians of the Galaxy,Henan,9
+4,S1,P4,S1P4,18,176,95,Undergraduate Degree (UG),2,TRUE,TRUE,Fast & Furious,Liaoning,8
+5,S1,P5,S1P5,18,168,52,Undergraduate Degree (UG),2,FALSE,FALSE,The Wandering Earth,Tianjin,8
+6,S2,P1,S2P1,18,164.5,58.2,Undergraduate Degree (UG),3,FALSE,FALSE,The Hobbits,Jilin,7
+7,S2,P2,S2P2,18,178.2,72.5,Undergraduate Degree (UG),4,FALSE,FALSE,Transformers,Hunan,9
+8,S2,P3,S2P3,19,159.3,51.2,Undergraduate Degree (UG),2,TRUE,TRUE,LoveLetters,Hunan,6
+9,S2,P4,S2P4,18,159.7,50.5,Undergraduate Degree (UG),3,FALSE,FALSE,Frozen,Beijing,7
+10,S2,P5,S2P5,18,176.5,70.3,Undergraduate Degree (UG),2,FALSE,TRUE,Titanic,Hunan,9
+11,S3,P1,S3P1,19,182,63,Undergraduate Degree (UG),2,TRUE,FALSE,DUNE,Fujian,8
+12,S3,P2,S3P2,19,180,66,Undergraduate Degree (UG),2,TRUE,FALSE,The Shawshank Redemption,Shanghai,9
+13,S3,P3,S3P3,46,163,75,Postgraduate/ Master's Degree (PG),2,FALSE,TRUE,Cliff Walkers,Fujian,8
+14,S3,P4,S3P4,46,165,55,Undergraduate Degree (UG),1,FALSE,FALSE,The Pursuit of Happiness,Fujian,8
+15,S3,P5,S3P5,19,175,60,Undergraduate Degree (UG),2,TRUE,FALSE,Star Wars,Beijing,8
+16,S4,P1,S4P1,50,180,178.767,Postgraduate/ Master's Degree (PG),1,FALSE,TRUE,The Shawshank Redemption,Shanghai,7
+17,S4,P2,S4P2,49,168,126.7876,Postgraduate/ Master's Degree (PG),2,FALSE,FALSE,Gone with the Wind,Shanghai,7
+18,S4,P3,S4P3,20,181,145.6765,Undergraduate Degree (UG),2,FALSE,TRUE,The Dark Knight,Shanghai,6
+19,S4,P4,S4P4,19,176,150.7876,Undergraduate Degree (UG),3,FALSE,TRUE,Avengers End Game,Shanghai,6
+20,S4,P5,S4P5,20,178,136.7876,Undergraduate Degree (UG),2,FALSE,FALSE,Pulp Fiction,Shanghai,5
+21,S5,P1,S5P1,16,166.5,58,No School,2,FALSE,TRUE,Frozen,Fujian,5
+22,S5,P2,S5P2,18,156,48.7,High School,3,FALSE,FALSE,The Grand Budapest Hotel,Shanghai,8
+23,S5,P3,S5P3,19,165,63,High School,2,FALSE,FALSE,The Sound of Music,Guangdong,9
+24,S5,P4,S5P4,19,178,70.5,High School,2,TRUE,TRUE,Coco,Fujian,8
+25,S5,P5,S5P5,46,160,65,Undergraduate Degree (UG),2,FALSE,FALSE,Forrest Gump,Fujian,7
+26,S6,P1,S6P1,19,180,81,Undergraduate Degree (UG),2,FALSE,TRUE,fight club,Shandong,6
+27,S6,P2,S6P2,19,176,73,Undergraduate Degree (UG),2,None,TRUE,Forrest Gump ,Shandong,8
+28,S6,P3,S6P3,19,182,64,Undergraduate Degree (UG),2,TRUE,TRUE,Les choristes ,Shandong,7
+29,S6,P4,S6P4,19,183,60,Undergraduate Degree (UG),3,None,TRUE,The Godfather,Shandong,9
+30,S6,P5,S6P5,55,162,70,Postgraduate/ Master's Degree (PG),2,None,TRUE,Green Book,None,10
+31,S7,P1,S7P1,20,165.23,47.37,Undergraduate Degree (UG),2,FALSE,FALSE,slam dunk,Sichuan,6
+32,S7,P2,S7P2,19,155.34,47.81,Undergraduate Degree (UG),3,FALSE,TRUE,coco,Chongqing,8
+33,S7,P3,S7P3,20,154.04,50.21,Undergraduate Degree (UG),3,FALSE,FALSE,Totoro,Sichuan,3
+34,S7,P4,S7P4,19,163.13,48.91,Undergraduate Degree (UG),4,FALSE,FALSE,X-Men,Sichuan,7
+35,S7,P5,S7P5,46,168.12,60.05,Undergraduate Degree (UG),2,TRUE,TRUE,farewell my concubine,Sichuan,8
+36,S8,P1,S8P1,18,170,63,Undergraduate Degree (UG),2,FALSE,FALSE,avengers,Guangdong,9
+37,S8,P2,S8P2,18,175,77,Undergraduate Degree (UG),2,TRUE,FALSE,titanic,Guangdong,8
+38,S8,P3,S8P3,19,186,82,Undergraduate Degree (UG),3,FALSE,None,truemen's world,Guangdong,10
+39,S8,P4,S8P4,20,180,73,Undergraduate Degree (UG),2,None,TRUE,ironmen,Guangdong,7
+40,S8,P5,S8P5,18,175,58,Undergraduate Degree (UG),2,FALSE,FALSE,wolf worriors,Guangdong,9
+41,S9,P1,S9P1,43,160,52,Undergraduate Degree (UG),2,TRUE,FALSE,Under the Hawthorn Tree,Shandong,8
+42,S9,P2,S9P2,19,165,50,High School,2,TRUE,FALSE,The Thirteen Women of Jinling ,Shandong,8
+43,S9,P3,S9P3,19,168,62,High School,2,TRUE,TRUE,Dead Poets Society ,Shandong,3
+44,S9,P4,S9P4,18,177,64,High School,2,TRUE,FALSE,Spirited Away ,Shandong,8
+45,S9,P5,S9P5,18,168,48.5,High School,2,FALSE,FALSE,The Truman Show,Hubei,5
+46,S10,P1,S10P1,18,168,47,Undergraduate Degree (UG),2,FALSE,TRUE,The Notebook,Hebei,6
+47,S10,P2,S10P2,20,186,75,Undergraduate Degree (UG),2,FALSE,TRUE,Spider Man,Hebei,9
+48,S10,P3,S10P3,20,181,61,Undergraduate Degree (UG),2,FALSE,TRUE,Les choristes,Hebei,3
+49,S10,P4,S10P4,18,178,64,High School,2,FALSE,TRUE,Les choristes,Hebei,7
+50,S10,P5,S10P5,13,160,55,Some School,2,FALSE,TRUE,Les choristes,Hebei,9
+51,S11,P1,S11P1,18,176.23,82.5,Undergraduate Degree (UG),3,None,TRUE,interstellar,Guangdong,5
+52,S11,P2,S11P2,18,180.92,73.2,Undergraduate Degree (UG),2,FALSE,FALSE,flipped,Guangdong,9
+53,S11,P3,S11P3,18,178.5,65.8,Undergraduate Degree (UG),3,None,TRUE,hachiko,Guangdong,10
+54,S11,P4,S11P4,46,160.23,58.2,Some School,1,FALSE,FALSE,IP man,Guangdong,7
+55,S11,P5,S11P5,52,169.79,78.9,High School,2,FALSE,TRUE,Ip man,Guangdong,8
+56,S12,P1,S12P1,45,180,71,Undergraduate Degree (UG),2,None,None,Farewell My Concubine,Hubei,9
+57,S12,P2,S12P2,74,176,70,High School,1,None,None,tunnel warefare,Hubei,10
+58,S12,P3,S12P3,71,157,48,High School,1,None,None,My Motherland And I,Hubei,10
+59,S12,P4,S12P4,19,181,81,Undergraduate Degree (UG),3,FALSE,TRUE,The Shawshank Redemption,Hubei,10
+60,S12,P5,S12P5,18,172,65,High School,2,TRUE,None,The Wandering Earth,Hubei,10
+61,S13,P1,S13P1,20,187,77,Undergraduate Degree (UG),2,TRUE,FALSE,Dead Poets Society,Hebei,9
+62,S13,P2,S13P2,25,178,71,Undergraduate Degree (UG),2,FALSE,TRUE,The Wandering Earth,Shanghai,6
+63,S13,P3,S13P3,46,184,72,Undergraduate Degree (UG),2,FALSE,FALSE,The Green Book,Hebei,8
+64,S13,P4,S13P4,30,181,69,Postgraduate/ Master's Degree (PG),3,TRUE,FALSE,Spirited Away,Hebei,7
+65,S13,P5,S13P5,21,164,54,Undergraduate Degree (UG),2,FALSE,TRUE,Pride and Prejudice,Beijing,6
+66,S14,P1,S14P1,18,164.32,45.52,Undergraduate Degree (UG),2,TRUE,TRUE,Unforgiven,Hunan,8
+67,S14,P2,S14P2,17,170.54,75.33,High School,2,FALSE,FALSE,Iron Man,Hunan,7
+68,S14,P3,S14P3,47,161.56,60.32,Doctorate degree (PhD),2,TRUE,TRUE,Pride and Prejudice,Guangdong,6
+69,S14,P4,S14P4,18,172.44,52.54,Undergraduate Degree (UG),2,FALSE,TRUE,Gone With the Wind,Jilin,7
+70,S14,P5,S14P5,18,172.55,52.54,Undergraduate Degree (UG),2,TRUE,TRUE,City of Angels,Anhui,7
+71,S15,P1,S15P1,19,175.5,52.2,Undergraduate Degree (UG),3,FALSE,TRUE,Sword art online,Guangdong,9
+72,S15,P2,S15P2,19,181,51,Undergraduate Degree (UG),2,None,TRUE,Farewell my concubine ,Guangdong,7
+73,S15,P3,S15P3,18,180,81.1,Undergraduate Degree (UG),3,None,None,Dongfang project,Guangdong,7
+74,S15,P4,S15P4,19,165.5,53,Undergraduate Degree (UG),5,FALSE,FALSE,Love letter ,Guangdong,7
+75,S15,P5,S15P5,18,183,62,Undergraduate Degree (UG),3,FALSE,FALSE,Brave heart ,Guangdong,8
+76,S16,P1,S16P1,18,174,62,Undergraduate Degree (UG),2,FALSE,FALSE,The notebook,Heilongjiang,7
+77,S16,P2,S16P2,19,181,65,Undergraduate Degree (UG),5,TRUE,TRUE,Star Wars,Shanghai,7
+78,S16,P3,S16P3,18,174,62,Undergraduate Degree (UG),7,FALSE,FALSE,Despicable me,Beijing,7
+79,S16,P4,S16P4,19,168,72,Undergraduate Degree (UG),2,FALSE,TRUE,Harry Potter,Gansu,8
+80,S16,P5,S16P5,18,175,60,Undergraduate Degree (UG),3,FALSE,FALSE,Transformers,Sichuan,6
+81,S17,P1,S17P1,24,183.2,70.6,Postgraduate/ Master's Degree (PG),3,FALSE,TRUE,Titanic,Liaoning,6
+82,S17,P2,S17P2,36,169.6,40.9,Postgraduate/ Master's Degree (PG),2,FALSE,FALSE,Roman Holiday,Shanghai,8
+83,S17,P3,S17P3,44,173.9,66.9,Undergraduate Degree (UG),3,TRUE,TRUE,Avengers,Liaoning,7
+84,S17,P4,S17P4,26,165.2,51.3,Doctorate degree (PhD),3,FALSE,TRUE,Harry Potter,Beijing,5
+85,S17,P5,S17P5,50,181.3,80.7,Undergraduate Degree (UG),2,FALSE,TRUE,The Battle at Lake Changjin,Beijing,9
+86,S18,P1,S18P1,19,168,50,Undergraduate Degree (UG),2,TRUE,FALSE,Inception,Shanghai,7
+87,S18,P2,S18P2,20,175,65,Undergraduate Degree (UG),2,FALSE,FALSE,La La Land,Beijing,6
+88,S18,P3,S18P3,19,180,63,Undergraduate Degree (UG),2,TRUE,TRUE,AvengersÔºöInfinity War,Beijing,7
+89,S18,P4,S18P4,49,160,47,Undergraduate Degree (UG),2,FALSE,None,Avatar,Beijing,8
+90,S18,P5,S18P5,48,170,74,Postgraduate/ Master's Degree (PG),2,FALSE,TRUE,The Wandering Earth,Beijing,7
+91,S19,P1,S19P1,19,165,53,Undergraduate Degree (UG),2,FALSE,TRUE,Tenet,Shanghai,10
+92,S19,P2,S19P2,25,185,85,Undergraduate Degree (UG),2,FALSE,FALSE,Averages,Shanghai,8
+93,S19,P3,S19P3,20,193,60,Undergraduate Degree (UG),3,FALSE,TRUE,X-men,Shandong,9
+94,S19,P4,S19P4,40,174,68,Postgraduate/ Master's Degree (PG),2,FALSE,TRUE,The wandering earth,Shanghai,6
+95,S19,P5,S19P5,79,170,80,High School,1,FALSE,TRUE,None,Hubei,8
+96,S20,P1,S20P1,19,172,56,Undergraduate Degree (UG),2,FALSE,FALSE,12 angry men,Hainan,5
+97,S20,P2,S20P2,19,174,70,Undergraduate Degree (UG),2,FALSE,FALSE,The Pursuit of Happiness,Hainan,4
+98,S20,P3,S20P3,19,165,51,Undergraduate Degree (UG),2,FALSE,FALSE,3 idiots,Hainan,3
+99,S20,P4,S20P4,19,179,65,Undergraduate Degree (UG),2,FALSE,FALSE,Spirited Away,Hainan,4
+100,S20,P5,S20P5,19,176,90,Undergraduate Degree (UG),2,FALSE,TRUE,Spider man,Hainan,3
+101,S21,P1,S21P1,18,168.66,68.23,Undergraduate Degree (UG),2,FALSE,FALSE,The Grandmaster,Shanghai,5
+102,S21,P2,S21P2,18,172.32,60.48,Undergraduate Degree (UG),3,FALSE,FALSE,No Game No Life:Zero,Chongqing,6
+103,S21,P3,S21P3,18,178.52,54.44,Undergraduate Degree (UG),2,FALSE,FALSE,A Clockwork Orange,Sichuan,8
+104,S21,P4,S21P4,18,178.67,60.83,Undergraduate Degree (UG),2,FALSE,TRUE,The Dark Knight,Hunan,7
+105,S21,P5,S21P5,18,175.51,82.69,Undergraduate Degree (UG),1,FALSE,TRUE,Pacific Rim,Jiangsu,10
+106,S22,P1,S22P1,49,169,85,Undergraduate Degree (UG),1,FALSE,TRUE,Dangal,Guangdong,8
+107,S22,P2,S22P2,33,185,80,High School,2,None,TRUE,Qomolangma,Shanghai,8
+108,S22,P3,S22P3,33,180,70,High School,2,None,None,Shaolin soccar,Shanghai,8
+109,S22,P4,S22P4,31,174,62,Some School,3,None,TRUE,The wandering Earth,Shanghai,7
+110,S22,P5,S22P5,19,177,55,Undergraduate Degree (UG),2,TRUE,FALSE,Titanic,Guangdong,9
+111,S23,P1,S23P1,18,172.67,60.56,Undergraduate Degree (UG),2,TRUE,FALSE,Avengers four,Shandong,4
+112,S23,P2,S23P2,45,169.97,70.65,Some School,1,FALSE,FALSE,Thor3,Shandong,8
+113,S23,P3,S23P3,18,181.76,70.76,Undergraduate Degree (UG),3,TRUE,TRUE,Fast and Furious6,Shandong,4
+114,S23,P4,S23P4,25,163.27,50.22,Postgraduate/ Master's Degree (PG),2,FALSE,None,Harry Potter,Beijing,6
+115,S23,P5,S23P5,55,165.62,70.11,Postgraduate/ Master's Degree (PG),2,FALSE,FALSE,Independent Day,Neimengu,9
+116,S24,P5,S24P5,23,180,68,Undergraduate Degree (UG),2,TRUE,TRUE,Titanic,Fujian,7
+117,S24,P1,S24P1,24,178,64,Undergraduate Degree (UG),2,FALSE,TRUE,Before Sunrise,Fujian,7
+118,S24,P2,S24P2,18,180,58,Undergraduate Degree (UG),2,TRUE,TRUE,Before Sunset,Hubei,6
+119,S24,P3,S24P3,19,171,54,Undergraduate Degree (UG),2,FALSE,TRUE,Pride & Prejudice,Chongqing,4
+120,S24,P4,S24P4,20,177,75,Undergraduate Degree (UG),2,FALSE,FALSE,Roman Holiday,Beijing,8
+121,S25,P1,S25P1,50,175,80,Undergraduate Degree (UG),5,FALSE,FALSE,Titanic,Hubei,8
+122,S25,P2,S25P2,51,165,53,Undergraduate Degree (UG),2,TRUE,FALSE,Green Book,Hubei,9
+123,S25,P3,S25P3,16,168,55,Some School,2,FALSE,TRUE,The Pursuit of Happiness,Hubei,6
+124,S25,P4,S25P4,17,178,61,Some School,3,TRUE,FALSE,The Intern,Guangdong,6
+125,S25,P5,S25P5,19,167,53,High School,3,TRUE,TRUE,Roman Holiday,Heilongjiang,7
+126,S26,P1,S26P1,20,168.5,70.65,Undergraduate Degree (UG),2,FALSE,TRUE,Forrest Gump,Sichuan,8
+127,S26,P2,S26P2,19,175.5,79.23,Undergraduate Degree (UG),2,FALSE,FALSE,The secret life of Walter Mitty,Sichuan,6
+128,S26,P3,S26P3,19,179.3,55.96,Undergraduate Degree (UG),2,FALSE,TRUE,La La Land,Sichuan,7
+129,S26,P4,S26P4,19,180.7,74.73,Undergraduate Degree (UG),2,FALSE,FALSE,Three idiots,Chongqing,5
+130,S26,P5,S26P5,19,180.2,80.13,Undergraduate Degree (UG),2,FALSE,FALSE,Manchester by the Sea,Sichuan,4
+131,S27,P1,S27P1,49,158.45,49.23,High School,1,FALSE,TRUE,Let the Bullets Fly,Shanxi,8
+132,S27,P2,S27P2,51,165.12,75.97,Some School,1,None,TRUE,Lost On Journey,Shanxi,9
+133,S27,P3,S27P3,20,168.06,49.57,Undergraduate Degree (UG),2,FALSE,FALSE,The Deep Sea,Shanxi,6
+134,S27,P4,S27P4,85,163.16,62.21,Some School,1,FALSE,FALSE,Five Heroes On Langya Mountain,Shanxi,10
+135,S27,P5,S27P5,19,172.09,77.43,Undergraduate Degree (UG),2,FALSE,TRUE,Un touchable,Shanxi,5
+136,S28,P1,S28P1,19,177,62,Undergraduate Degree (UG),2,FALSE,TRUE,"The Legend of 1900			",Tianjing,10
+137,S28,P2,S28P2,18,177,80,Undergraduate Degree (UG),2,FALSE,FALSE,"Wolf warriors			",Jiangsu,8
+138,S28,P3,S28P3,19,175,81,Undergraduate Degree (UG),2,FALSE,FALSE,John Wick,Guangxi,8
+139,S28,P4,S28P4,19,176,56,Undergraduate Degree (UG),3,TRUE,TRUE,"Detachment			",Guangxi,7
+140,S28,P5,S28P5,19,172,70,Undergraduate Degree (UG),2,FALSE,FALSE,Avengers,Shanghai,7
+141,S29,P2,S29P2,19,183,63,High School,2,FALSE,TRUE,"transformers1,2,3,4",Hebei,7
+142,S29,P3,S29P3,18,165,61,High School,2,FALSE,None,None,Hubei,None
+143,S29,P4,S29P4,47,164,66,Undergraduate Degree (UG),1,TRUE,FALSE,None,Hebei,10
+144,S29,P5,S29P5,45,184,90,Undergraduate Degree (UG),2,FALSE,TRUE,None,Tianjin,5
+145,S29,P1,S29P1,18,180,105,High School,2,FALSE,FALSE,Avengers 4,Tianjin,8
+146,S30,P1,S30P1,19,175,60,Undergraduate Degree (UG),2,TRUE,FALSE,The Avengers,Sichuan,5
+147,S30,P2,S30P2,19,192,82,Undergraduate Degree (UG),2,TRUE,FALSE,The Mission,Sichuan,3
+148,S30,P3,S30P3,19,180,66,Undergraduate Degree (UG),2,FALSE,FALSE,Spirited Away,Shandong,8
+149,S30,P4,S30P4,18,187,65,Undergraduate Degree (UG),3,TRUE,FALSE,Dangal,Sichuan,7
+150,S30,P5,S30P5,19,178,80,Undergraduate Degree (UG),3,TRUE,TRUE,The Fast and the Furious,Sichuan,6
+151,S31,P1,S31P1,46,165.11,50.01,Undergraduate Degree (UG),2,FALSE,TRUE,Hurricane,Hebei,7
+152,S31,P2,S31P2,45,175.22,68.02,Undergraduate Degree (UG),2,FALSE,TRUE,Three kingdoms,Hebei,8
+153,S31,P3,S31P3,19,170.33,50.03,Undergraduate Degree (UG),2,TRUE,FALSE,Interstellar,Hainan,6
+154,S31,P4,S31P4,18,165.44,44.04,Undergraduate Degree (UG),2,FALSE,FALSE,Manjianghong,Jiangsu,8
+155,S31,P5,S31P5,16,175.55,60.05,High School,2,TRUE,TRUE,Spider-Man,Hebei,8
+156,S32,P1,S32P1,28,185.4,85.52,High School,2,TRUE,FALSE, Manchester by the Sea,Shaanxi,7
+157,S32,P2,S32P2,28,175.5,70.2,Postgraduate/ Master's Degree (PG),2,TRUE,FALSE,Farewell My Concubine,Beijing,8
+158,S32,P3,S32P3,35,163.8,55.6,Postgraduate/ Master's Degree (PG),3,FALSE,TRUE,avengers,Shanghai,9
+159,S32,P4,S32P4,24,158.7,52.4,High School,1,FALSE,FALSE,Infernal Affairs,Hubei,5
+160,S32,P5,S32P5,31,180.3,75.8,Undergraduate Degree (UG),2,FALSE,FALSE,Fast & Furious,Hubei,8
+161,S33,P1,S33P1,19,174.5,54.5,Undergraduate Degree (UG),2,FALSE,FALSE,One day,Hubei,7
+162,S33,P2,S33P2,44,159.5,55.45,High School,1,FALSE,FALSE,Lalaland,Hubei,8
+163,S33,P3,S33P3,50,170.6,62.54,High School,1,TRUE,TRUE,Brave heart,Hubei,9
+164,S33,P4,S33P4,19,173.5,73.6,Undergraduate Degree (UG),3,FALSE,FALSE,No game no life,Hongkong,7
+165,S33,P5,S33P5,18,165.3,56.35,Undergraduate Degree (UG),2,FALSE,TRUE,2001 space odyssey,Beijing,8
+166,S34,P1,S34P1,19,168,46,Undergraduate Degree (UG),3,FALSE,FALSE,Hannibal,Hainan,5
+167,S34,P2,S34P2,19,174,70,Undergraduate Degree (UG),2,FALSE,FALSE,The Pursuit of Happiness,Hainan,5
+168,S34,P3,S34P3,19,165,50,Undergraduate Degree (UG),2,FALSE,FALSE,3 idiots,Hainan,3
+169,S34,P4,S34P4,19,179,65,Undergraduate Degree (UG),2,FALSE,FALSE,Spirited Away,Hainan,4
+170,S34,P5,S34P5,19,176,90,Undergraduate Degree (UG),2,FALSE,TRUE,12 angry men,Hainan,5
+171,S35,P1,S35P1,19,172,62,High School,2,TRUE,TRUE,The Shawshank Redemption,Hainan,8
+172,S35,P2,S35P2,20,180,70,Undergraduate Degree (UG),2,None,TRUE,Forrest Gump ,Guangxi,9
+173,S35,P3,S35P3,18,176,60,High School,3,TRUE,TRUE,La vita √® bella,Beijing,10
+174,S35,P4,S35P4,18,162,50,High School,2,TRUE,TRUE,Inception,Shanghai,8
+175,S35,P5,S35P5,17,185,73,High School,3,TRUE,TRUE,La leggenda del pianista sull'oceano,Guangdong,9
+176,S36,P1,S36P1,18,179,69,Undergraduate Degree (UG),2,FALSE,TRUE,Firework ,Jiangsu,7
+177,S36,P2,S36P2,18,163,51,Undergraduate Degree (UG),2,FALSE,TRUE,Qian and Qianxun,Chongqing,8
+178,S36,P3,S36P3,19,177,67,Undergraduate Degree (UG),4,FALSE,FALSE,Batman ,Chongqing,7
+179,S36,P4,S36P4,19,159,48,Undergraduate Degree (UG),2,FALSE,FALSE,Youyuanjingmeng ,Tianjin,9
+180,S36,P5,S36P5,19,161,48,Undergraduate Degree (UG),3,TRUE,FALSE,The Great Gatsby,Sichuan,6
+181,S37,P1,S37P1,21,163,51,Undergraduate Degree (UG),2,TRUE,FALSE,Interstellar,Sichuan,8
+182,S37,P2,S37P2,50,162,55,Postgraduate/ Master's Degree (PG),2,FALSE,TRUE,The Legend of 1900,Guangdong,9
+183,S37,P3,S37P3,52,178,71,Undergraduate Degree (UG),2,FALSE,TRUE,Farewell My Concubine,Guangdong,8
+184,S37,P4,S37P4,18,183,90,Undergraduate Degree (UG),5,FALSE,TRUE,The Wandering Earth II,Guangdong,7
+185,S37,P5,S37P5,26,162,55,Undergraduate Degree (UG),3,TRUE,TRUE,Forrest Gump,Sichuan,8
+186,S38,P1,S38P1,19,168,48,Undergraduate Degree (UG),3,FALSE,FALSE,Hannibal,Heinan,9
+187,S38,P2,S38P2,19,162,60,Undergraduate Degree (UG),2,TRUE,None,Harry Potter,Henan,10
+188,S38,P3,S38P3,19,168,51,Undergraduate Degree (UG),3,TRUE,TRUE,Ladri di biciclette,Shanghai,5
+189,S38,P4,S38P4,19,176,76,Undergraduate Degree (UG),3,FALSE,FALSE,Mission impossible,Shaanxi,9
+190,S38,P5,S38P5,49,173,53,Postgraduate/ Master's Degree (PG),2,None,None,Fast & Furious,Henan,3
+191,S39,P1,S39P1,19,160,50.15,High School,1,FALSE,FALSE,"Hi,Mom",Fujian,9
+192,S39,P2,S39P2,18,165,50,High School,2,TRUE,FALSE,The Shawshank Redemption,Fujian,6
+193,S39,P3,S39P3,53,170.12,63,Postgraduate/ Master's Degree (PG),1,TRUE,TRUE,The Legend of 1900,Fujian,10
+194,S39,P4,S39P4,19,170,58,High School,2,TRUE,TRUE,Titanic,Fujian,8
+195,S39,P5,S39P5,18,170,57,High School,1,TRUE,TRUE,Picnic,Fujian,7
+196,S40,P1,S40P1,24,184,74,Postgraduate/ Master's Degree (PG),2,TRUE,None,Flutter,Chongqing,7
+197,S41,P1,S41P1,19,181.19,68.453912,Undergraduate Degree (UG),2,TRUE,TRUE,Before Sunrise,Tianjin,9
+198,S41,P2,S41P2,18,163.65,50.016347,Undergraduate Degree (UG),2,FALSE,FALSE,Minions,Liaoning,10
+199,S41,P3,S41P3,18,160.07,55.121973,Undergraduate Degree (UG),2,FALSE,TRUE,Better Days,Shaanxi,9
+200,S41,P4,S41P4,19,175.86,58.878652,Undergraduate Degree (UG),2,FALSE,FALSE,La La Land,Shaanxi,7
+201,S41,P5,S41P5,19,154.56,44.723453,Undergraduate Degree (UG),2,FALSE,FALSE,Roman Holiday,Tianjin,8
+202,S42,P1,S42P1,24,192,84,Undergraduate Degree (UG),2,TRUE,FALSE,The Wandering Earth,Liaoning,7
+203,S42,P2,S42P2,19,184,80,Undergraduate Degree (UG),3,FALSE,FALSE,DC Films,Liaoning,9
+204,S42,P3,S42P3,21,175,77,Undergraduate Degree (UG),2,FALSE,TRUE,The Fast and the Furious,Hainan,8
+205,S42,P4,S42P4,18,183,93,Undergraduate Degree (UG),2,TRUE,FALSE,Titanic,Liaoning,9
+206,S42,P5,S42P5,36,172,72,Undergraduate Degree (UG),2,FALSE,TRUE,Marvel Cinematic Universe,Hainan,6
+207,S43,P1,S43P1,55,160,49,Undergraduate Degree (UG),2,TRUE,TRUE,Titanic(1997),Liaoning,9
+208,S43,P2,S43P2,55,178,80,Undergraduate Degree (UG),2,TRUE,FALSE,Let the Bullets Fly(2010),Liaoning,10
+209,S43,P3,S43P3,12,150,60,Some School,1,FALSE,FALSE,The Lion King(2019),Liaoning,8
+210,S43,P4,S43P4,26,180,75,Undergraduate Degree (UG),2,FALSE,TRUE,The Godfather(1972),Liaoning,10
+211,S43,P5,S43P5,19,168,52,Undergraduate Degree (UG),2,TRUE,TRUE,Les Choristes(2004),Shanghai,10
+212,S44,P1,S44P1,46,165,140,High School,1,FALSE,FALSE,Tenet,Hubei,8
+213,S44,P2,S44P2,43,160,110,High School,1,FALSE,FALSE,Changjing Lake,Hubei,8
+214,S44,P3,S44P3,20,173,112,Undergraduate Degree (UG),2,TRUE,TRUE,Harry Potter,Hubei,8
+215,S44,P4,S44P4,5,110,20,No School,1,FALSE,FALSE,PAW patrol,Hubei,8
+216,S44,P5,S44P5,21,173,130,Undergraduate Degree (UG),2,FALSE,TRUE,The Wandering Earth,Hubei,7
+217,S45,P1,S45P1,19,178,60,Undergraduate Degree (UG),2,TRUE,TRUE,ÊàòÁãº,Hubei,10
+218,S45,P2,S45P2,19,179,65,Undergraduate Degree (UG),2,TRUE,TRUE,IPZZ-081,Hubei,6
+219,S45,P3,S45P3,19,168,54,Undergraduate Degree (UG),2,FALSE,TRUE,ABW-063,Hubei,7
+220,S45,P4,S45P4,19,168,20,Undergraduate Degree (UG),2,TRUE,FALSE,‰∏≠ÂõΩÂ•≥Êéí,Hubei,6
+221,S45,P5,S45P5,18,175,55,Undergraduate Degree (UG),2,FALSE,TRUE,Ready Player,Shandong,2
+222,S46,P1,S46P1,18,180,73,Undergraduate Degree (UG),3,FALSE,FALSE,Puella Magi Madoka Magica,Liaoning,2
+223,S46,P2,S46P2,19,163,70,Undergraduate Degree (UG),2,TRUE,FALSE,Your Name,Shandong,9
+224,S46,P3,S46P3,53,163,68,High School,2,FALSE,FALSE,Waterloo Bridge,Shandong,7
+225,S46,P4,S46P4,53,173,75,Postgraduate/ Master's Degree (PG),2,FALSE,FALSE,3 Idots,Shandong,5
+226,S46,P5,S46P5,19,170,48,Undergraduate Degree (UG),2,FALSE,FALSE,Call Me by Your Name,Shandong,6
+227,S47,P1,S47P1,18,176,71.8,Undergraduate Degree (UG),2,FALSE,TRUE,Wolf warriors 2,Guangdong,2
+228,S47,P2,S47P2,18,175,105,Undergraduate Degree (UG),2,FALSE,FALSE,Family guys,Hainan,5
+229,S47,P3,S47P3,26,186,83,Postgraduate/ Master's Degree (PG),2,None,FALSE,pleasant Goat and Big wolf,Hebei,5
+230,S47,P4,S47P4,19,191,109,Undergraduate Degree (UG),2,TRUE,FALSE,Family Guys,Hainan,7
+231,S47,P5,S47P5,18,165,60,Undergraduate Degree (UG),2,TRUE,FALSE,The Simpsons,None,6
+232,S48,P1,S48P1,19,181.51,72.34,High School,2,FALSE,TRUE,Titanic,Liaoning,7
+233,S48,P2,S48P2,45,164.15,65.12,Postgraduate/ Master's Degree (PG),3,FALSE,FALSE,The Shawshank Redemption,Liaoning,8
+234,S48,P3,S48P3,47,174.23,60.13,Postgraduate/ Master's Degree (PG),2,TRUE,TRUE,The Avengers,Liaoning,7
+235,S48,P4,S48P4,28,180.23,100.56,Undergraduate Degree (UG),2,TRUE,TRUE,The Fast and the Furious,Liaoning,6
+236,S48,P5,S48P5,45,175.73,65.87,Undergraduate Degree (UG),4,TRUE,FALSE,Transformers,Liaoning,8
+237,S49,P1,S49P1,18,172.25,52,Undergraduate Degree (UG),2,FALSE,FALSE,Titanic,Hunan,8
+238,S49,P2,S49P2,18,184.35,65,Undergraduate Degree (UG),2,FALSE,TRUE,The Avengers,Hunan,8
+239,S49,P3,S49P3,18,176.45,66,Undergraduate Degree (UG),2,FALSE,TRUE,Iron Man ,Hunan,9
+240,S49,P4,S49P4,18,178.55,60,Undergraduate Degree (UG),2,FALSE,FALSE,Thor,Hunan,9
+241,S49,P5,S49P5,18,180.65,64,Undergraduate Degree (UG),2,FALSE,TRUE,Spider-Man,Hunan,9
+242,S50,P1,S50P1,54,168.5,69.77,Postgraduate/ Master's Degree (PG),2,FALSE,TRUE,Full Metal Jacket,Sichuan,8
+243,S50,P2,S50P2,54,163.48,52.45,Postgraduate/ Master's Degree (PG),2,TRUE,TRUE,Scent of a Woman,Sichuan,8
+244,S50,P3,S50P3,19,167.55,55.56,Undergraduate Degree (UG),3,TRUE,TRUE,Hacksaw Ridge,Sichuan,9
+245,S50,P4,S50P4,24,175.58,72.64,Doctorate degree (PhD),3,TRUE,TRUE,The Fast and the Furious,Sichuan,7
+246,S50,P5,S50P5,30,180.78,78.29,Postgraduate/ Master's Degree (PG),2,FALSE,FALSE,Gone with the Wind,Hebei,8
+247,S51,P1,S51P1,18,175,68,Undergraduate Degree (UG),3,None,TRUE,Braveheart ,Hubei,7
+248,S51,P2,S51P2,18,178,74,Undergraduate Degree (UG),2,FALSE,FALSE,Fast & Furious,Jiangsu,8
+249,S51,P3,S51P3,32,165,57,Postgraduate/ Master's Degree (PG),2,TRUE,TRUE,Before Sunrise,Hubei,8
+250,S51,P4,S51P4,28,182,82,Postgraduate/ Master's Degree (PG),3,None,TRUE,Rashomon,Guangdong,7
+251,S51,P5,S51P5,52,178,78,High School,1,None,TRUE,The Battle at Lake Changjin,Hubei,6
+252,S52,P1,S52P1,18,174,60,Undergraduate Degree (UG),3,None,TRUE,The journey of Lingya,Hainan,10
+253,S52,P2,S52P2,18,180,75,Undergraduate Degree (UG),3,None,TRUE,Wandering earth,Hainan,7
+254,S52,P3,S52P3,18,188,67.5,Undergraduate Degree (UG),3,FALSE,FALSE,Dangle Daddy,Hainan,8
+255,S52,P4,S52P4,18,172,62,Undergraduate Degree (UG),3,TRUE,TRUE,The stray cat Bowler,Hainan,8
+256,S52,P5,S52P5,19,178,72,Undergraduate Degree (UG),3,TRUE,TRUE,Peppa Pig has a New Year,Hainan,8
+257,S53,P1,S53P1,19,172.2,62.5,Undergraduate Degree (UG),2,FALSE,TRUE,Weathering with you,Henan,7
+258,S53,P2,S53P2,19,178.5,83.5,Undergraduate Degree (UG),2,FALSE,TRUE,The Legend of 1900,Henan,7
+259,S53,P3,S53P3,19,178.3,65.1,Undergraduate Degree (UG),2,FALSE,TRUE,The Truman Show,Henan,8
+260,S53,P4,S53P4,19,178.2,60,Undergraduate Degree (UG),2,FALSE,TRUE,Harry Potter,Beijing,9
+261,S53,P5,S53P5,19,190.5,89.5,Undergraduate Degree (UG),2,TRUE,TRUE,The Avengers,Beijing,9
+262,S54,P1,S54P1,28,175,70.5,Postgraduate/ Master's Degree (PG),3,TRUE,TRUE,Inception,Shanghai,8
+263,S54,P2,S54P2,10,135,30,Some School,1,FALSE,TRUE,None,Beijing,7
+264,S54,P3,S54P3,45,170,85.5,High School,1,TRUE,TRUE,Nome,Guangdong,7
+265,S54,P4,S54P4,22,180,63.5,Some School,2,FALSE,FALSE,Avengers: Endgame,Guangxi,6
+266,S54,P5,S54P5,19,167,68,High School,2,TRUE,FALSE,The Dark Knight,Guangdong,10
+267,S55,P1,S55P1,17,170,65,Undergraduate Degree (UG),4,TRUE,TRUE,Kung  Fu,Zhejiang,10
+268,S55,P2,S55P2,18,182,76,High School,2,None,None,Young and Dangerous,Hainan,5
+269,S55,P3,S55P3,23,188,80,Postgraduate/ Master's Degree (PG),4,None,TRUE,The King of Kung Fu,Hainan,4
+270,S55,P4,S55P4,16,165,50,High School,2,None,TRUE,Zootopia,None,8
+271,S55,P5,S55P5,18,188,90,Undergraduate Degree (UG),4,TRUE,TRUE,Wolf Warriors ,None,10
+272,S56,P1,S56P1,32,175,70,High School,2,FALSE,TRUE,The Shawshank Redemption,Shanghai,8
+273,S56,P2,S56P2,27,168,55,Postgraduate/ Master's Degree (PG),3,TRUE,TRUE,Forrest Gump,Beijing,9
+274,S56,P3,S56P3,40,180,85,High School,1,FALSE,FALSE,The Godfather,Guangdong,6
+275,S56,P4,S56P4,22,163,48,Undergraduate Degree (UG),2,TRUE,FALSE,Inception,Sichuan,6
+276,S56,P5,S56P5,35,170,62,Doctorate degree (PhD),4,FALSE,TRUE,The Dark Knight,Guangdong,9
+277,S57,P1,S57P1,18,196,85,High School,2,FALSE,TRUE,spirited away,Shandong,7
+278,S57,P2,S57P2,19,180,66,Undergraduate Degree (UG),2,FALSE,FALSE,spirited away,Shandong,8
+279,S57,P3,S57P3,19,168,46,Undergraduate Degree (UG),2,FALSE,FALSE,Hannibal,Hainan,5
+280,S57,P4,S57P4,19,182,63,Undergraduate Degree (UG),2,TRUE,FALSE,DUNE,Fujian,8
+281,S57,P5,S57P5,19,192,85,Undergraduate Degree (UG),2,TRUE,FALSE,The Avengers,Sichuan,7
+282,S58,P1,S58P1,18,168,60,Undergraduate Degree (UG),2,FALSE,TRUE,Soul,Guangdong,8
+283,S58,P2,S58P2,19,160,49,Undergraduate Degree (UG),2,None,TRUE,The Truman Show,Jiangxi,8
+284,S58,P3,S58P3,18,180,60,Undergraduate Degree (UG),2,None,TRUE,Interstellar,Guangdong,10
+285,S58,P4,S58P4,19,177,64,Undergraduate Degree (UG),2,FALSE,TRUE,Ready Player One,Guangdong,10
+286,S58,P5,S58P5,18,158,48,Undergraduate Degree (UG),2,TRUE,TRUE,The Little Mermaid,Guangdong,7
+287,S59,P1,S59P1,35,177.2,75.4,Postgraduate/ Master's Degree (PG),7111,FALSE,TRUE,Star Wars 3,Chongqing,8
+288,S59,P2,S59P2,19,175.5,65.2,Undergraduate Degree (UG),6455,FALSE,TRUE,The Shawshank Redemption,Chongqing,9
+289,S59,P3,S59P3,184.2,77.2,0,Undergraduate Degree (UG),1414,FALSE,TRUE,Now You See Me,Chongqing,9
+290,S59,P4,S59P4,18,169.7,63.3,Undergraduate Degree (UG),2226,FALSE,FALSE,Farewell to My Concubine,Chongqing,7
+291,S59,P5,S59P5,52,174.5,78.2,Undergraduate Degree (UG),523,FALSE,TRUE,The Taking Of Tiger Mountain,Chongqing,10
+292,S60,P1,S60P1,19,175.3,64.7,Undergraduate Degree (UG),13,FALSE,TRUE,Soul Catch,Anhui,9
+293,S60,P2,S60P2,28,172.8,72.5,Undergraduate Degree (UG),9,TRUE,TRUE,Titanic,Shanghai,8
+294,S60,P3,S60P3,39,168.4,65.2,Postgraduate/ Master's Degree (PG),20,FALSE,FALSE,Deep Blue,Anhui,9
+295,S60,P4,S60P4,18,163.2,52,Undergraduate Degree (UG),18,TRUE,FALSE,Charlotte's Web,Beijing,9
+296,S60,P5,S60P5,46,169.6,76,Postgraduate/ Master's Degree (PG),7,TRUE,TRUE,Investigation Of A Ctizen Above Suspicion,Henan,8
+297,S61,P1,S61P1,18,178.52,99.87,Undergraduate Degree (UG),2,FALSE,None,Your Name,Hebei,8
+298,S61,P2,S61P2,19,179.93,74.23,Undergraduate Degree (UG),2,TRUE,FALSE,Iron Man,Hunan,8
+299,S61,P3,S61P3,44,162.25,62.13,Undergraduate Degree (UG),1,TRUE,TRUE,Avatar,Hebei,10
+300,S61,P4,S61P4,19,178.36,74.15,Undergraduate Degree (UG),2,FALSE,FALSE,Interstellar,Shandong,8
+301,S61,P5,S61P5,19,192.36,89.25,Undergraduate Degree (UG),2,None,None,Neo morpheus matrix,Jiangsu,8
+302,S62,P1,S62P1,23,162.56,55.78,No School,2,TRUE,FALSE,The Battle at Lake Changjin,Shaanxi,7
+303,S62,P2,S62P2,33,166,70,Doctorate degree (PhD),4,FALSE,FALSE,Hibiscus Town ,Beijing,9
+304,S62,P3,S62P3,0,0,0,None,0,None,None,None,None,None
+305,S62,P4,S62P4,2,2,2,No School,2,TRUE,TRUE,3,None,1
+306,S63,P1,S63P1,25,183,78,Doctorate degree (PhD),3,FALSE,TRUE,None,Anhui,9
+307,S63,P2,S63P2,45,163,57,Undergraduate Degree (UG),1,FALSE,FALSE,The Wandering Earth,Henan,8
+308,S63,P3,S63P3,13,156,44,Some School,2,TRUE,TRUE,Avengers,Henan,9
+309,S63,P4,S63P4,63,161,66,Some School,1,FALSE,FALSE,None,Henan,9
+310,S63,P5,S63P5,19,181,107,High School,2,TRUE,FALSE,Full River Red,Hainan,10
